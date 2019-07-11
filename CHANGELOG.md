@@ -1,10 +1,6 @@
 Changelog
 =========
 
-##### 0.2.2
-- Add Travis CI support
-- Remove bluebird dependency
-
 ##### 0.5.1.2-beta
 - GUI Improvement
 - Add: Download jpeg in recordings (new voice mail and new record started)
